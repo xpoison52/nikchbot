@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+datetime
+re
+mysql-connector-python
